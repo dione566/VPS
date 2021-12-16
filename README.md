@@ -4,7 +4,7 @@ __VPS-MANAGER 1.0__
 __Recomendado__
 - Ubuntu 18
 
-![logo](https://github.com/NT-GIT-HUB/VPS-MANAGER-1.0/blob/main/home.png)
+![logo](https://github.com/dione566/VPS/blob/main/home.png)
 
 __Instalar apenas o SCRIPT__
 
