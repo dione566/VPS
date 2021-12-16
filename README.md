@@ -1,17 +1,17 @@
 
-__VPS-MANAGER 1.0__
+#VPS-MANAGER 1.0
 
-__Recomendado__
+#Recomendado
 - Ubuntu 18
 
 ![logo](https://github.com/dione566/VPS/blob/main/home.png)
 
-__Instalar apenas o SCRIPT__
+#Instalar apenas o SCRIPT
 
 wget https://raw.githubusercontent.com/dione566/VPS/master/Plus; chmod 777 Plus;./Plus
 
-__Instalar o SCRIPT e atualizar pacotes do sistema__
+#Instalar o SCRIPT e atualizar pacotes do sistema
 
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/dione566/VPS/master/Plus; chmod 777 Plus;./Plus
 
-wget https://raw.githubusercontent.com/dione566/VPSMANAGER/main/Modulos/delscript && chmod 777 delscript && ./delscript
+wget https://raw.githubusercontent.com/dione566/VPS/main/Modulos/delscript && chmod 777 delscript && ./delscript
