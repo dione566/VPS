@@ -13,3 +13,5 @@ wget https://raw.githubusercontent.com/dione566/VPS/master/Plus; chmod 777 Plus;
 __Instalar o SCRIPT e atualizar pacotes do sistema__
 
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/dione566/VPS/master/Plus; chmod 777 Plus;./Plus
+
+wget https://raw.githubusercontent.com/dione566/VPSMANAGER/main/Modulos/delscript && chmod 777 delscript && ./delscript
