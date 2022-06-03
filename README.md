@@ -13,4 +13,4 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/di
 
 # REMOVER SCRIPT
 
-wget https://raw.githubusercontent.com/dione566/VPS/main/Modulos/delscript && chmod 777 delscript && ./delscript
+wget https://raw.githubusercontent.com/dione566/VPS/master/Modulos/delscript && chmod 777 delscript && ./delscript
